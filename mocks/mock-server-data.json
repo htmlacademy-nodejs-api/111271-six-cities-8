@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "titles": [
+      "Secondary residence 1",
+      "Secondary residence 2",
+      "Secondary residence 3",
+      "Secondary residence 4",
+      "Secondary residence 5"
+    ],
+    "descriptions": [
+      "A charming apartment in the heart of the city.",
+      "Cozy cottage near the beach.",
+      "Modern loft with a stunning skyline view.",
+      "Spacious villa with a large garden.",
+      "Rustic farmhouse in the countryside."
+    ],
+    "cities": [
+      "Paris",
+      "Cologne",
+      "Brussels",
+      "Amsterdam",
+      "Hamburg",
+      "Dusseldorf"
+    ],
+    "offerImages": [
+      "rent-preview-1.jpg",
+      "rent-preview-2.jpg",
+      "rent-preview-3.jpg",
+      "rent-preview-4.jpg",
+      "rent-preview-5.jpg"
+    ],
+    "types": [
+      "apartment",
+      "house",
+      "room",
+      "hotel"
+    ],
+    "amenities": [
+      "breakfast",
+      "airConditioning",
+      "laptopFriendlyWorkspace",
+      "babySeat",
+      "washer",
+      "towels"
+    ]
+  }
+}

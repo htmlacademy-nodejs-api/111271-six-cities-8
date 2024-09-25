@@ -4,7 +4,7 @@ import { AmenityType } from './amenity-type.enum.js';
 export type RentOffer = {
   title: string;
   description: string;
-  postDate: Date;
+  postDate: string;
   city: string;
   previewUrl: string;
   imageUrls: string[];
